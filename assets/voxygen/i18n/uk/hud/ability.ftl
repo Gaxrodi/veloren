@@ -74,7 +74,7 @@ veloren-core-pseudo_abilities-sword-fell_strike = Лютий Удар
         Модифікується залежно від вашої стійки
 common-abilities-sword-basic_fell_strike = Основний Лютий Удар
     .desc = Основний швидкий і сильний розріз
-common-abilities-sword-heavy_fell_strike =	Важкий Лютий Удар
+common-abilities-sword-heavy_fell_strike = Важкий Лютий Удар
     .desc = Сильний розріз, який може похитнути ворога
 common-abilities-sword-agile_fell_strike = Спритний Лютий Удар
     .desc = Дуже швидкий і сильний розріз
@@ -104,8 +104,8 @@ veloren-core-pseudo_abilities-sword-cascade = Лавина
     .desc =
         Розріз зверху
         Модифікується залежно від вашої стійки
- common-abilities-sword-basic_cascade = Основна Лавина
-	.desc = Основний розріз зверху
+common-abilities-sword-basic_cascade = Основна Лавина
+    .desc = Основний розріз зверху
 common-abilities-sword-heavy_cascade = Важка Лавина	
     .desc = Розріз зверху, який може похитнути ворога
 common-abilities-sword-agile_cascade = Спритна Лавина
@@ -116,9 +116,9 @@ common-abilities-sword-crippling_cascade = Руйнівна Лавина
     .desc = Розріз зверху, який може викликати кровотечу
 common-abilities-sword-cleaving_cascade = Розсікаюча Лавина
     .desc = Розріз зверху, який може пробити ворогів
-veloren-core-pseudo_abilities-sword-cross_cut =	Поперечний Розріз
+veloren-core-pseudo_abilities-sword-cross_cut = Поперечний Розріз
     .desc = 
-	    Правий і лівий розріз
+        Правий і лівий розріз
         Модифікується залежно від вашої стійки
 common-abilities-sword-basic_cross_cut = Основний Поперечний Розріз
     .desc = Основний правий і лівий розріз
@@ -130,7 +130,7 @@ common-abilities-sword-defensive_cross_cut = Захист: Поперечний 
     .desc = Правий і лівий розріз. Парирує атаки ворога
 common-abilities-sword-crippling_cross_cut = Руйнівний Поперечний Розріз
     .desc = Правий і лівий розріз, який може викликати кровотечу
-common-abilities-sword-cleaving_cross_cut =	Розсікаючий Поперечний Розріз
+common-abilities-sword-cleaving_cross_cut = Розсікаючий Поперечний Розріз
     .desc = Правий і лівий розріз, який може пробити ворогів
 common-abilities-sword-basic_dual_cross_cut = Основний Поперечний Розріз
     .desc = Основний правий і лівий розріз одночасно
@@ -147,7 +147,7 @@ common-abilities-sword-cleaving_dual_cross_cut = Розсікаючий Попе
 veloren-core-pseudo_abilities-sword-finisher = Смертельний Удар
     .desc =
         Здатність, що споживає комбо та призначена для завершення бою
-		Смертельний удар буде різним, залежно від вашої стійки
+        Смертельний удар буде різним, залежно від вашої стійки
 common-abilities-sword-basic_mighty_strike = Могутній Розріз	
     .desc =
         Простий, сильний розріз
@@ -160,11 +160,11 @@ common-abilities-sword-agile_hundred_cuts = Сотня порізів
     .desc =
         Дуже багато швидких розрізів
         Для використання потрібна помірна кількість комбо
-common-abilities-sword-defensive_counter =	Швидка Відповідь
+common-abilities-sword-defensive_counter = Швидка Відповідь
     .desc =
         Швидка атака, яка завдає набагато більшої шкоди ворогу, атаку якого ви парирували
         Для використання потрібна помірна кількість комбо
-common-abilities-sword-crippling_mutilate =	Скалічення
+common-abilities-sword-crippling_mutilate = Скалічення
     .desc = 
         Покалічте ворога, пошкодивши його поранення. Завдає більшої шкоди ворогам, що кровоточать
         Для використання потрібна помірна кількість комбо
@@ -191,15 +191,15 @@ common-abilities-sword-agile_quick_draw = Швидка Атака
 common-abilities-sword-agile_feint = Фінт
     .desc =
         Зробіть крок убік, а потім назад перед ударом
-		Входить у спритну стійку
+        Входить у спритну стійку
 common-abilities-sword-defensive_riposte = Контратака
     .desc = 
         Парируйте удар перед миттєвою контратакою
-		Входить у захисну стійку
+        Входить у захисну стійку
 common-abilities-sword-defensive_disengage = Відступ	
     .desc =
         Зробіть крок назад після удару
-		Входить у захисну стійку
+        Входить у захисну стійку
 common-abilities-sword-crippling_gouge = Виїмка
     .desc = 
         Завдайте своєму ворогу тривалу рану, яка продовжуватиме кровоточити
@@ -219,7 +219,7 @@ common-abilities-sword-cleaving_dual_whirlwind_slice =	Вихор Порізів
 common-abilities-sword-cleaving_earth_splitter = Розколювач Землі	
     .desc =
         Розколи землю. Якщо використовувати під час падіння, то матиме набагато сильніший удар
-		Входить у розсікаючу стійку
+        Входить у розсікаючу стійку
 common-abilities-sword-heavy_fortitude = Стійкість
     .desc =
         Збільшує опір хитанню. І щоразу ви отримуєте більше шкоди, ваші атаки можуть похитнути ворогів ще сильніше
@@ -228,7 +228,7 @@ common-abilities-sword-heavy_pillar_thrust = Пробивний Удар
     .desc =
         Пронизуйте своїм мечем ворога аж до землі. Сильніший, якщо використовувати під час падіння
         Для використання потрібна важка стійка
-common-abilities-sword-agile_dancing_edge =	Танцююче Лезо
+common-abilities-sword-agile_dancing_edge = Танцююче Лезо
     .desc =
         Рухайтесь і атакуйте швидше
         Для використання потрібна спритна стійка
@@ -239,7 +239,7 @@ common-abilities-sword-agile_flurry = Шквал Атак
 common-abilities-sword-agile_dual_flurry = Шквал Атак
     .desc =
         Багаторазові швидкі удари обома мечами
-		Для використання потрібна спритна стійка
+        Для використання потрібна спритна стійка
 common-abilities-sword-defensive_stalwart_sword = Стійкий Меч
     .desc =
         Уникайте сили ударів, вхідна шкода зменшується
@@ -254,7 +254,7 @@ common-abilities-sword-crippling_eviscerate = Потрошіння
         Для використання потрібна руйнівна стійка
 common-abilities-sword-crippling_bloody_gash = Кривавий розріз
     .desc =
-	    Жорстокий удар по вже кровоточивій рані. Завдає більше шкоди ворогам, що кровоточать
+        Жорстокий удар по вже кровоточивій рані. Завдає більше шкоди ворогам, що кровоточать
         Для використання потрібна руйнівна стійка
 common-abilities-sword-cleaving_blade_fever = Шаленість
     .desc =
@@ -278,10 +278,10 @@ common-abilities-axe-brutal_swing = Жорстокий Мах
 common-abilities-axe-berserk = Берсерк	
     .desc =
         Збільшує вашу силу ціною того, що робить вас уразливими
-common-abilities-axe-rising_tide = 	Приплив
+common-abilities-axe-rising_tide = Приплив
     .desc =
         Удар вгору, який значно збільшує комбо
-common-abilities-axe-savage_sense =	Дике Відчуття
+common-abilities-axe-savage_sense = Дике Відчуття
     .desc =
         Визначте життєво важливу точку на вашій цілі, щоб ваш наступний удар завдав їй серйозної шкоди
 common-abilities-axe-adrenaline_rush = Приплив Адреналіну	
@@ -292,12 +292,12 @@ common-abilities-axe-execute = Страта
     .desc =
         Нищівний удар, який часто буває смертельним
         Потребує 30 комбо для використання
-		Автоматично оновлюється до вихру при 50 комбо, якщо його розблоковано
+        Автоматично оновлюється до вихру при 50 комбо, якщо його розблоковано
 common-abilities-axe-maelstrom = Вихор	
     .desc =
         Вдаряйте все, що знаходиться поблизу, нищівним обертовим ударом
-		Автоматично оновлюється з страти при 50 комбо
-common-abilities-axe-rake =	Граблі
+        Автоматично оновлюється з страти при 50 комбо
+common-abilities-axe-rake = Граблі
     .desc =
         Проведіть сокирою по своєму ворогу, викликаючи кровотечу
 common-abilities-axe-bloodfeast = Кривавий бенкет
@@ -312,18 +312,18 @@ common-abilities-axe-dual_fierce_raze =	Жорстоке Знищення
 common-abilities-axe-furor = Фурор
     .desc =
         Коли ваша лють зростає, ваші удари генерують більше комбо
-common-abilities-axe-fracture =	Перелом
+common-abilities-axe-fracture = Перелом
     .desc =
         Руйнівний удар, який заважає руху вашого ворога
         Масштабується з комбо при активації, потребує половину комбо
-common-abilities-axe-lacerate =	Розрив
+common-abilities-axe-lacerate = Розрив
     .desc =
         Роздеріть свою ціль, викликаючи кровотечу
-		Потребує 30 комбо для використання
-		Автоматично оновлюється до розривної течії при 50 комбо, якщо його розблоковано
+        Потребує 30 комбо для використання
+        Автоматично оновлюється до розривної течії при 50 комбо, якщо його розблоковано
 common-abilities-axe-riptide = Розривна Течія
     .desc =
-	    Роздеріть усіх ворогів, які знаходяться поблизу, викликаючи кровотечу
+        Роздеріть усіх ворогів, які знаходяться поблизу, викликаючи кровотечу
         Автоматично оновлюється з розрива при 50 комбо
 common-abilities-axe-skull_bash = Удар По Черепу	
     .desc =
@@ -334,10 +334,10 @@ common-abilities-axe-sunder = Розкол
 common-abilities-axe-plunder = Розбій
     .desc =
         Швидко крокуйте до свого ворога, позбавляючи його рівноваги ударом
-common-abilities-axe-defiance =	Виклик
+common-abilities-axe-defiance = Виклик
     .desc =
         Довго дивлячись смерті в очі, ви зробите себе стійким як до хитання, так і до смерті
-common-abilities-axe-keelhaul =	Кілхаулінг
+common-abilities-axe-keelhaul = Кілхаулінг
     .desc =
         Підхопіть опонента, щоб підтягнути його ближче до себе
         Масштабується з комбо при активації, потребує половину комбо
@@ -345,9 +345,8 @@ common-abilities-axe-bulkhead = Могутній замах
     .desc =
         Важкий замах, який, як деякі кажуть, може навіть похитнути титанів
         Потребує 30 комбо для використання
-		Автоматично оновлюється до оберта смерті при 50 комбо, якщо його розблоковано
+        Автоматично оновлюється до оберта смерті при 50 комбо, якщо його розблоковано
 common-abilities-axe-capsize = Оберт Смерті
     .desc = 
         Похитніть всіх навколо себе важким обертовим ударом
-		Автоматично оновлюється з могутнього замаху при 50 комбо
-    
+        Автоматично оновлюється з могутнього замаху при 50 комбо
